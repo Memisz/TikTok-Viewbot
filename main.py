@@ -1,6 +1,6 @@
 #!usr/bin/env python
 #-*- coding:utf-8 -*-
-from pygradient import Colors
+
 """
 @author: &! Tekky#1337 
 @file: main.py
